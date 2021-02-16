@@ -1,2 +1,2 @@
 # CreSoty.Update
-Cresoty Autoupdate repo
+Cresoty Autoupdate repository
